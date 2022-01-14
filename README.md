@@ -24,7 +24,7 @@ Example:
 
 this url
 
-https://eja.tv/?limit=0&country=**js**&language=**Chinese**&category=&level=0&search=
+https://eja.tv/?limit=0&country=js&language=Chinese&category=&level=0&search=
 
 means channel from Japan, language is Chinese, and any category
 
@@ -155,7 +155,7 @@ Western%20Frisian => Western Frisian
 Yue%20Chinese => Yue Chinese
 ```
 
-#### Contry
+#### Country
 ```
 af => Afghanistan
 al => Albania
